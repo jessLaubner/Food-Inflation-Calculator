@@ -1,8 +1,7 @@
-#Program to see how inflation rates have affected the cost of
-#groceries since 2020
+#Program to display how the inflation rate on food has changed grocery shopping in 2023
 
 
-#pre-pandemic, I could get away with spending $300 on groceries and it would
+#pre-pandemic, I could get away with spending $300 on groceries for a family of 4, and it would
 #last for close to two weeks. This is including the extra costs of me using
 #InstaCart.
 
